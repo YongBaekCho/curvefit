@@ -1,8 +1,5 @@
 '''
 Name: YongBaek Cho
-Section: ISTA331
-date: Aug 30 2018
-Homework: ISTA 331 Hw1
 Description: This module is used to build different linear regression models
     and to plot the aproximation curves
 '''
